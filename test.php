@@ -1,1 +1,3 @@
-<?php echo "This is just for testing"; ?>
+<?php echo "This is just for testing";
+      echo "This is just for testing";
+ ?>
